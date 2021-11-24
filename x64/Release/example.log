@@ -1,0 +1,157 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037\atlmfc\include\atlcore.h(659,2): warning C4191: 'reinterpret_cast': unsafe conversion from 'FARPROC' to 'BOOL (__cdecl *)(DWORD)'
+          Calling this function through the result pointer may cause your program to fail
+C:\Users\ben dover\Desktop\update 76\main.cpp(17,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdkddkver.h(223): message : see previous definition of '_WIN32_WINNT'
+C:\Users\ben dover\Desktop\update 76\main.cpp(102,1): warning C4242: 'argument': conversion from 'int' to 'WORD', possible loss of data
+C:\Users\ben dover\Desktop\update 76\main.cpp(405,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ben dover\Desktop\update 76\main.cpp(435,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ben dover\Desktop\update 76\main.cpp(720,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\ben dover\Desktop\update 76\main.cpp(722,8): error C2059: syntax error: 'constant'
+C:\Users\ben dover\Desktop\update 76\main.cpp(73,13): error C2374: 'name': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(73): message : see declaration of 'name'
+C:\Users\ben dover\Desktop\update 76\main.cpp(74,13): error C2374: 'ownerid': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(74): message : see declaration of 'ownerid'
+C:\Users\ben dover\Desktop\update 76\main.cpp(75,13): error C2374: 'secret': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(75): message : see declaration of 'secret'
+C:\Users\ben dover\Desktop\update 76\main.cpp(76,13): error C2374: 'version': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(76): message : see declaration of 'version'
+C:\Users\ben dover\Desktop\update 76\main.cpp(78,5): error C2374: 'KeyAuthApp': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(78): message : see declaration of 'KeyAuthApp'
+C:\Users\ben dover\Desktop\update 76\main.cpp(80,8): error C2084: function 'size_t write_data(void *,size_t,size_t,FILE *)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(80): message : see previous definition of 'write_data'
+C:\Users\ben dover\Desktop\update 76\main.cpp(94,1): error C2011: 'Color': 'class' type redefinition
+C:\Users\ben dover\Desktop\update 76\main.cpp(93): message : see declaration of 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(135,30): error C2086: 'CONSOLE_SCREEN_BUFFER_INFOEX info': redefinition
+C:\Users\ben dover\Desktop\update 76\main.cpp(135): message : see declaration of 'info'
+C:\Users\ben dover\Desktop\update 76\main.cpp(138,6): error C2084: function 'void niggersmustdie(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(138): message : see previous definition of 'niggersmustdie'
+C:\Users\ben dover\Desktop\update 76\main.cpp(152,6): error C2084: function 'void bsod(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(152): message : see previous definition of 'bsod'
+C:\Users\ben dover\Desktop\update 76\main.cpp(160,5): error C2374: 'hours': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(160): message : see declaration of 'hours'
+C:\Users\ben dover\Desktop\update 76\main.cpp(161,5): error C2374: 'minutes': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(161): message : see declaration of 'minutes'
+C:\Users\ben dover\Desktop\update 76\main.cpp(162,5): error C2374: 'seconds': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(162): message : see declaration of 'seconds'
+C:\Users\ben dover\Desktop\update 76\main.cpp(164,6): error C2084: function 'void timer(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(164): message : see previous definition of 'timer'
+C:\Users\ben dover\Desktop\update 76\main.cpp(189,6): error C2084: function 'void AutismCloser(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(189): message : see previous definition of 'AutismCloser'
+C:\Users\ben dover\Desktop\update 76\main.cpp(213,6): error C2084: function 'void Spoof(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(213): message : see previous definition of 'Spoof'
+C:\Users\ben dover\Desktop\update 76\main.cpp(237,7): error C2084: function 'void serials(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(237): message : see previous definition of 'serials'
+C:\Users\ben dover\Desktop\update 76\main.cpp(251,6): error C2084: function 'void NiggerPrintMessage(const std::string &,unsigned int)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(251): message : see previous definition of 'NiggerPrintMessage'
+C:\Users\ben dover\Desktop\update 76\main.cpp(261,6): error C2084: function 'BOOL IsAppRunningAsAdminMode(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(261): message : see previous definition of 'IsAppRunningAsAdminMode'
+C:\Users\ben dover\Desktop\update 76\main.cpp(306,6): error C2084: function 'void test(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(306): message : see previous definition of 'test'
+C:\Users\ben dover\Desktop\update 76\main.cpp(312,6): error C2084: function 'void adminaccess(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(312): message : see previous definition of 'adminaccess'
+C:\Users\ben dover\Desktop\update 76\main.cpp(314,6): error C2065: 'IsAppRunningAsAdminMode': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(314,39): error C2446: '==': no conversion from 'int' to 'BOOL (__cdecl *)(void)'
+C:\Users\ben dover\Desktop\update 76\main.cpp(314,35): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\ben dover\Desktop\update 76\main.cpp(320,23): error C2027: use of undefined type 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(93): message : see declaration of 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(320,45): error C2027: use of undefined type 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(93): message : see declaration of 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(328,6): error C2084: function 'void printlogo(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(328): message : see previous definition of 'printlogo'
+C:\Users\ben dover\Desktop\update 76\main.cpp(333,20): error C2027: use of undefined type 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(93): message : see declaration of 'Color'
+C:\Users\ben dover\Desktop\update 76\main.cpp(338,8): error C2374: 'ConsoleHandle': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(338): message : see declaration of 'ConsoleHandle'
+C:\Users\ben dover\Desktop\update 76\main.cpp(351,6): error C2084: function 'void Load_Nigger_Driver(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(351): message : see previous definition of 'Load_Nigger_Driver'
+C:\Users\ben dover\Desktop\update 76\main.cpp(362,2): error C2065: 'NiggerPrintMessage': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(363,2): error C2065: 'NiggerPrintMessage': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(364,2): error C2065: 'NiggerPrintMessage': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(368,2): error C2065: 'NiggerPrintMessage': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(382,4): error C2065: 'NiggerPrintMessage': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(384,4): error C2065: 'Spoof': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(385,4): error C2065: 'timer': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(386,4): error C2065: 'AutismCloser': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(394,19): error C2374: 'alphanum': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(394): message : see declaration of 'alphanum'
+C:\Users\ben dover\Desktop\update 76\main.cpp(396,5): error C2374: 'stringLengthh': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(396): message : see declaration of 'stringLengthh'
+C:\Users\ben dover\Desktop\update 76\main.cpp(398,6): error C2084: function 'char genRandomn(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(398): message : see previous definition of 'genRandomn'
+C:\Users\ben dover\Desktop\update 76\main.cpp(403,6): error C2084: function 'void Randomexe(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(403): message : see previous definition of 'Randomexe'
+C:\Users\ben dover\Desktop\update 76\main.cpp(405,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ben dover\Desktop\update 76\main.cpp(409,10): error C2065: 'genRandomn': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(409,22): error C2568: '+=': unable to resolve function overload
+C:\Users\ben dover\Desktop\update 76\main.cpp(409,22): message : could be 'char genRandomn(void)'
+C:\Users\ben dover\Desktop\update 76\main.cpp(423,19): error C2374: 'alphanumm': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(423): message : see declaration of 'alphanumm'
+C:\Users\ben dover\Desktop\update 76\main.cpp(425,5): error C2374: 'stringLength1': redefinition; multiple initialization
+C:\Users\ben dover\Desktop\update 76\main.cpp(425): message : see declaration of 'stringLength1'
+C:\Users\ben dover\Desktop\update 76\main.cpp(427,6): error C2084: function 'char genRandom1(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(427): message : see previous definition of 'genRandom1'
+C:\Users\ben dover\Desktop\update 76\main.cpp(433,6): error C2084: function 'void SetRandomTitle(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(433): message : see previous definition of 'SetRandomTitle'
+C:\Users\ben dover\Desktop\update 76\main.cpp(435,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ben dover\Desktop\update 76\main.cpp(439,10): error C2065: 'genRandom1': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(439,22): error C2568: '+=': unable to resolve function overload
+C:\Users\ben dover\Desktop\update 76\main.cpp(439,22): message : could be 'char genRandom1(void)'
+C:\Users\ben dover\Desktop\update 76\main.cpp(447,5): error C2084: function 'int main(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(447): message : see previous definition of 'main'
+C:\Users\ben dover\Desktop\update 76\main.cpp(456,2): error C2065: 'adminaccess': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(457,2): error C2065: 'SetRandomTitle': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(458,2): error C2065: 'printlogo': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(459,2): error C2065: 'Randomexe': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(475,2): error C2065: 'Load_Nigger_Driver': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(481,6): error C2084: function 'void login(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(481): message : see previous definition of 'login'
+C:\Users\ben dover\Desktop\update 76\main.cpp(506,2): error C2065: 'printlogo': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(528,10): error C2084: function 'NTSTATUS RtlAdjustPrivilege(ULONG,BOOLEAN,BOOLEAN,PBOOLEAN)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(528): message : see previous definition of 'RtlAdjustPrivilege'
+C:\Users\ben dover\Desktop\update 76\main.cpp(533,10): error C2084: function 'NTSTATUS NtRaiseHardError(LONG,ULONG,ULONG,PULONG_PTR,ULONG,PULONG)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(533): message : see previous definition of 'NtRaiseHardError'
+C:\Users\ben dover\Desktop\update 76\main.cpp(538,6): error C2084: function 'bool IsProcessRunningQQ(const wchar_t *)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(538): message : see previous definition of 'IsProcessRunningQQ'
+C:\Users\ben dover\Desktop\update 76\main.cpp(559,6): error C2084: function 'void exedetect(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(559): message : see previous definition of 'exedetect'
+C:\Users\ben dover\Desktop\update 76\main.cpp(563,6): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(568,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(573,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(578,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(583,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(588,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(593,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(598,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(603,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(608,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(613,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(618,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(623,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(628,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(633,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(638,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(643,11): error C2065: 'IsProcessRunningQQ': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(650,6): error C2084: function 'void titledetect(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(650): message : see previous definition of 'titledetect'
+C:\Users\ben dover\Desktop\update 76\main.cpp(678,6): error C2084: function 'void driverdetect(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(678): message : see previous definition of 'driverdetect'
+C:\Users\ben dover\Desktop\update 76\main.cpp(704,7): error C2084: function 'PVOID AntiRevers(HMODULE)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(704): message : see previous definition of 'AntiRevers'
+C:\Users\ben dover\Desktop\update 76\main.cpp(716,13): error C2084: function 'bool Int2DCheck(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(716): message : see previous definition of 'Int2DCheck'
+C:\Users\ben dover\Desktop\update 76\main.cpp(720,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\ben dover\Desktop\update 76\main.cpp(722,8): error C2059: syntax error: 'constant'
+C:\Users\ben dover\Desktop\update 76\main.cpp(740,6): error C2084: function 'void error(std::string)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(740): message : see previous definition of 'error'
+C:\Users\ben dover\Desktop\update 76\main.cpp(748,6): error C2084: function 'void debug(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(748): message : see previous definition of 'debug'
+C:\Users\ben dover\Desktop\update 76\main.cpp(753,3): error C2065: 'exedetect': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(754,3): error C2065: 'titledetect': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(755,3): error C2065: 'driverdetect': undeclared identifier
+C:\Users\ben dover\Desktop\update 76\main.cpp(760,6): error C2084: function 'void killdbg(void)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(760): message : see previous definition of 'killdbg'
+C:\Users\ben dover\Desktop\update 76\main.cpp(770,20): error C2084: function 'std::string random_string(size_t)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(770): message : see previous definition of 'random_string'
+C:\Users\ben dover\Desktop\update 76\main.cpp(786,13): error C2084: function 'std::string tm_to_readable_time(tm)' already has a body
+C:\Users\ben dover\Desktop\update 76\main.cpp(786): message : see previous definition of 'tm_to_readable_time'
